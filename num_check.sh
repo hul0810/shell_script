@@ -1,5 +1,5 @@
 #!/bin/bash
-# 정규표현식을 활용한 입력 숫자 체크
+# 입력값 숫자인지 확인하는 스크립트
 
 read -p "input your number: " number
 
