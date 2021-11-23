@@ -1,4 +1,5 @@
 #!/bin/bash
+# 전달 인자 체크 스크립트
 
 if [ -z "$1" ]; then
   echo "usage: $0 directory"
